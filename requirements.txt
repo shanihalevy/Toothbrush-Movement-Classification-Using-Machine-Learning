@@ -1,0 +1,18 @@
+# Core scientific libraries (matching your current environment)
+numpy==2.2.2
+scipy==1.15.1
+pandas==2.2.3
+matplotlib==3.10.0
+
+# Machine Learning libraries (you have scikit-learn already)
+scikit-learn==1.6.1
+skrebate==0.62
+
+# Data visualization (to install)
+seaborn==0.13.2
+tqdm==4.67.1
+
+# Signal Processing
+nolds==0.6.1
+PyWavelets==1.8.0
+EMD-signal==1.6.4
