@@ -8,6 +8,7 @@ This project implements a complete Machine Learning pipeline for classifying fou
 
 | File | Description |
 | --- | --- |
+| `requirements.txt` | lists the Python packages needed to run the project. |
 | `main05_train_and_prepare.py` | Script for training the final model, performing feature selection, and saving all artifacts. |
 | `main05_predict_blind_data.py` | Script for loading the final trained model and predicting on unseen blind test data. |
 | `05_README.txt` | Technical reference and legacy notes. |
